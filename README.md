@@ -1,5 +1,5 @@
 # echo "Hola mundo"; 👋
-### Bienvenido Humano, mi nombre es Facundo y soy desarrollador backend
+### Bienvenido Humano, mi nombre es Facundo y soy desarrollador web
 En este repositorio vas a poder encontrar un poco de lo que pasa por mi cabeza y lo transformo en código.
 
 Actualmente las tecnologías que manejo son:

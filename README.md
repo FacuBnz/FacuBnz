@@ -3,7 +3,7 @@
 En este repositorio vas a poder encontrar un poco de lo que pasa por mi cabeza y lo transformo en código.
 
 Actualmente las tecnologías que manejo son:
-**HTML, CSS, JavaScript, PHP, MySQL, Laravel**
+**HTML, CSS, JavaScript, Java, Node.js, PHP, MySQL, Laravel**
 
 ### Contacto:
 

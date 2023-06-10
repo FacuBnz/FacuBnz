@@ -1,9 +1,9 @@
 # echo "Hola mundo"; 👋
-### Bienvenido Humano, mi nombre es Facundo y soy desarrollador web
+### Bienvenido, mi nombre es Facundo y soy desarrollador web
 En este repositorio vas a poder encontrar un poco de lo que pasa por mi cabeza y lo transformo en código.
 
 Actualmente las tecnologías que manejo son:
-**HTML, CSS, JavaScript, Java, Node.js, PHP, MySQL, Laravel**
+**HTML5, CSS3, JavaScript, Angular, Java, Spring Boot, MySQL, SQL Server, PHP**
 
 ### Contacto:
 

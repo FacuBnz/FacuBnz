@@ -7,7 +7,7 @@ I'm a **Java Developer** with over 2 years of experience in backend application 
 ### Java Developer - **Q&R Solutions**
 _May 2022 - Present | Hybrid, Buenos Aires Province, Argentina_
 
-As the backend lead for RE/MAX management systems in Argentina, Bolivia, Paraguay, Ecuador, and Uruguay regions, I specialize in:
+As the backend referent for RE/MAX management systems in Argentina, Bolivia, Paraguay, Ecuador, and Uruguay regions, I specialize in:
 
 - Creating and maintaining REST services with **Spring**.
 - Implementing **hexagonal architecture** and **Domain-Driven Design (DDD)**.

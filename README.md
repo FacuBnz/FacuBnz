@@ -1,6 +1,6 @@
 # Hello! I'm Facundo Benitez 👋
 
-I'm a **Java Developer** with over 2 years of experience in backend application development. I'm passionate about technology, software architecture, and continuous learning.
+I'm a **Backend Software Developer** with over 2 years of experience in backend application development. I'm passionate about technology, software architecture, and continuous learning.
 
 ## 🚀 Professional Experience
 
@@ -14,6 +14,7 @@ As the backend referent for RE/MAX management systems in Argentina, Bolivia, Par
 - Managing and optimizing **MySQL** databases.
 - Integrating systems using **RabbitMQ** message queues.
 - Frontend maintenance and development using technologies like **HTML5, CSS3, JavaScript, JQuery, EJS, Node.js, and Angular**.
+- AWS(S3, SQS, SES)
 - Mentoring new team members.
 
 ### DBA - **G&L Group**
